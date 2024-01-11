@@ -1,0 +1,8 @@
+
+#root {
+  @apply bg-blue-400;
+  min-height: 100vh;
+  position: relative;
+  overflow-x: hidden;
+}
+
